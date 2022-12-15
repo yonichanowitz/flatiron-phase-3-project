@@ -147,17 +147,19 @@ ideally i would also like to compare aiming data and cross reference it with the
 1) images/
     images used in this README from the index.ipynb file
 
-2) uploadable_data/
-    this is a folder with two csv files containing a small fraction of the incredibly large data set that I used. the uploadable data is for viewing, and running the notebook quickly. to get the FULL, but incredibly slow processing verion of the 20gb (yes, gigabyte) data, download it here <a>https://www.kaggle.com/datasets/maxcobra/rainbow-six-siege-s5-ranked-dataset</a>
-
-3) gitignore files
-
-4) README.md
-    this document
-
-5) index.ipynb
-    a jupyter notebook exploring what features of a match, and player, might be classified to lead to a win, using classification models
-
-6) pickle_files/ 
+2) pickle_files/ 
     several pickle files of models that I created, to help someone re-running the index file to get results faster. the models, if run without the pickle files, can be expected to take 20-30 minutes MINIMUM to process
     <font color='red'> there was an error uploading these files due to them being too large. the notebook should still run</font>
+
+3) uploadable_data/
+    this is a folder with two csv files containing a small fraction of the incredibly large data set that I used. the uploadable data is for viewing, and running the notebook quickly. to get the FULL, but incredibly slow processing verion of the 20gb (yes, gigabyte) data, download it here <a>https://www.kaggle.com/datasets/maxcobra/rainbow-six-siege-s5-ranked-dataset</a>
+
+4) gitignore files
+
+5) README.md
+    this document
+
+6) index.ipynb
+    a jupyter notebook exploring what features of a match, and player, might be classified to lead to a win, using classification models
+
+
