@@ -112,10 +112,46 @@ the results from the final `RandomForest()` model, had an acceptable F1 score, a
  
 The resulting features that had the largest effect on resulting a win were
  
-<img src='/images/final_model_barchart.png/'>
+<img src='/images/final_model_barchart.png'>
+
+Additionally, i made a study using the final model to see specifically which operators are best towards getting a win
+
+<img src='/images/operators_r6s_study.png'>
  
 # Recommendations
-a new player wishing to improve their win rate, should be using a submachine gun, picking Doc or Caveira, getting 2 kills (not necessarily more) and being on defense. while getting more kills isn't always feasible, through using secondary gadgets that explode, they will have a higher chance of multiple kills, and better win chance
+a player who is new to the game and wants to know what choices they should make to increase win ratio, should definitely try the following
+
+as is known, R6S has two phases in each match: 1) preparation phase 2)action phase
+suggested choices:
+on defense
+- defending as much as possible: 
+    being on defense has the advantage of using the preperation phase's 30 seconds to set traps and get strong 
+    angles to surprise attackers. arguably, this isn't a great strategy, as you will innevitably be on attack every other round 
+- use a submachine gun:
+    submachine guns have the advantage of:
+    - low kickback
+    - speed, (assuming your operator is a 3 speed).
+    speed and control win gun fights in R6S
+- take impact grenades (if the character has it available):
+    grenades, when timed right with proper intel, can often be a 1 shot kill,
+    this will give you a quick numbers advantage, and ensure that you
+- have at least 2 kills:
+    obviosly more kills means wins, but 2 is enough. players looking to "Ace" (eliminate all enemy players)
+    don't neccessarily lead to more wins overal
+- Doc is a solid choice of operator, until you learn the intricacies of the game. other good options are Valkyrie, or Castle
+    - Doc can heal himself, good for lasting longer if hit
+    - Valkyrie's cameras help you get intel, even if killed
+    - Castle's entry denial sheets force enemy's to waste time, or use up explosives
+    
+If on Attack
+- take breach charges OR grenades (whichever available). as with defenders above, 
+    explosive devices have a chace of an "instant" kill
+- use a reflex sight. this is contrary to common advice given by players, but may be due to the fact that while the
+    ACOG gives a long "sniper length" advantage of shots from far, the reflex sight gives you a wider field of vision
+- use Twitch, Fuze or Thatcher, until you get more accustomed to the more complicated operators. 
+    - Twitch can get rid of enemy traps and gather intel. 
+    - Fuze can get area denial by using his gadged, and has one of the highest DPS guns in the game
+    - Thatcher can dissable traps, helping you make a big push towards the objective
  
 another side point that i looked at just because i was curious, for attackers, the recommendation is as well to take explosive secondary gadgets, such as grenades
 <img src='/images/attackers_plot_2.png'>
