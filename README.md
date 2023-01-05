@@ -112,11 +112,11 @@ the results from the final `RandomForest()` model, had an acceptable F1 score, a
  
 The resulting features that had the largest effect on resulting a win were
  
-![final model barchart]('/images/final_model_barchart.png')
+[final model barchart](/images/final_model_barchart.png)
 
 Additionally, i made a study using the final model to see specifically which operators are best towards getting a win
 
-<img src='/images/operators_r6s_study.png'>
+[operators study](/images/operators_r6s_study.png)
  
 # Recommendations
 a player who is new to the game and wants to know what choices they should make to increase win ratio, should definitely try the following
@@ -154,7 +154,7 @@ If on Attack
     - Thatcher can dissable traps, helping you make a big push towards the objective
  
 another side point that i looked at just because i was curious, for attackers, the recommendation is as well to take explosive secondary gadgets, such as grenades
-<img src='/images/attackers_plot_2.png'>
+[Attackers bar plot](/images/attackers_plot_2.png)
  
 Feel free to comment and correct this notebook, all criticism is welcome
  
