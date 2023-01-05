@@ -112,7 +112,7 @@ the results from the final `RandomForest()` model, had an acceptable F1 score, a
  
 The resulting features that had the largest effect on resulting a win were
  
-<img src='/images/final_model_barchart.png'>
+[final model barchart]('/images/final_model_barchart.png')
 
 Additionally, i made a study using the final model to see specifically which operators are best towards getting a win
 
